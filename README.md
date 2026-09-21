@@ -30,3 +30,12 @@ HAVING
 JOIN
 AVG
 
+Next Questions:
+**Which customers hold multiple accounts?
+Which account type has the highest average balance?
+Which customers have the highest total deposits?
+Which branches hold the most deposits?
+Which customers have both deposit and loan relationships?
+Which loan type has the highest average balance?
+How much fee revenue was generated?
+Which branches have the largest loan exposure?**
